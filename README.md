@@ -1,17 +1,24 @@
 # NWTooltipFix
 
-#### For use on Atlantiss, Netherwing.
+#### For use on Atlantiss, Netherwing. Remember to remove this addon on patch 2.3!
+![Screenshot](NWTooltipFix.png)
 
 ## What does it do
 
-As you may know Netherwing is progressing through the patches of TBC, meaning some items and boss abilities will be in their old states and while the server holds these values, the 2.4.3 client can't always correctly display them. This addon allows you to see these values correctly.
+NWTooltipFix will fix the tooltips of a few items and spells to reflect the 2.0 state they are in. It's needed because in some rare cases the 2.4.3 client can not display the correct tooltips for 2.0 items/spells. 
 
-An example of these changes would be Leatherworking Drums not being usable while shapeshifted and having a 1 sec cast time.
+The following will be fixed:
+
+* Healing gear granting spell damage
+* Leatherworking drums stating they can be used while shapeshifted (also added in cast time display)
+* Debuff tooltip for Vashj's Persuasion
+* Crafting yield of Fisherman's Feast (as of version 1.1)
 
 
 ## How to install
 
 Go to Releases in https://github.com/nullfoxh/NWTooltipFix/releases and download NWTooltipFix.zip. Extract it to your World of Warcraft/Interface/AddOns folder and you're done!
 
+## Latest Changes - Version 1.3
 
-### Remember to remove this addon on patch 2.3!
+* Fixed display of certain green items with the type 'of healing'
