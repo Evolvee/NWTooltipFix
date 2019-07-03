@@ -1,6 +1,7 @@
 # NWTooltipFix
 
 #### For use on Atlantiss, Netherwing. Remember to remove this addon on patch 2.3!
+#### Please note that gems and enchants are supposed to grant both healing and damage bonuses!
 ![Screenshot](NWTooltipFix.png)
 
 ## What does it do
@@ -19,6 +20,6 @@ The following will be fixed:
 
 Go to Releases in https://github.com/nullfoxh/NWTooltipFix/releases and download NWTooltipFix.zip. Extract it to your World of Warcraft/Interface/AddOns folder and you're done!
 
-## Latest Changes - Version 1.3
+## Latest Changes - Version 1.5
 
-* Fixed display of certain green items with the type 'of healing'
+* Fixed display of Scalding Water's damage over time
